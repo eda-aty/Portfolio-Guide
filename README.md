@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Eda's Portfolio Banner" width="100%">
-</p>
+
 
 <h1 align="center">👩‍💻 Eda Aty's Data Portfolio</h1>
 
