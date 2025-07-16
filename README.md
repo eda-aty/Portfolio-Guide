@@ -1,6 +1,7 @@
-<img width="143" height="119" alt="Screen Shot 2025-07-16 at 13 19 10" src="https://github.com/user-attachments/assets/3871d349-26fd-4f90-b978-2d193acffc0f" /># 🗺 Eda's Portfolio
+# 🗺 Eda's Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+
 
 ## 📚 Table of Contents
 - [SQL](#sql)
@@ -24,8 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [📺 Netflix Movies & TV Shows](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Data Cleaning | I created a Python project to analyze a Netflix dataset obtained from Kaggle. The goal was to perform data cleaning with Pyhton. | pandas, matplotlib| 
-| 📺 [TMDb Movie Analysis](https://github.com/katiehuangx/Udacity-Data-Analyst-Nanodegree/blob/main/Project%202%20-%20TMDB%20Movie%20Analysis.ipynb) |   Data Wrangling & EDA | I analysed more than 10,000 TMDb movies and getting the answers to - Which actor(s) is associated with higher revenue and profit, Does a higher budget constitute to a higher profit, and Which director produced the highest grossing movie? | pandas, matplotlib |    
+| 👩🏻‍💻 [📺 Netflix Movies & TV Shows](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Data Cleaning | I created a Python project to analyze a Netflix dataset obtained from Kaggle. The goal was to perform data cleaning with Pyhton. | pandas, matplotlib|  
 | 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
 
 
