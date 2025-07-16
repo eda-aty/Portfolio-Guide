@@ -1,6 +1,13 @@
-# 🗺 Eda's Portfolio
+<p align="center">
+  <img src="banner.png" alt="Eda's Portfolio Banner" width="100%">
+</p>
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+<h1 align="center">👩‍💻 Eda Aty's Data Portfolio</h1>
+
+<p align="center">
+  Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+</p>
+
 
 
 ## 📚 Table of Contents
