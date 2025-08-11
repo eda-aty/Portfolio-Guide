@@ -47,7 +47,7 @@
 # Looker Studio
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|  🛍  [Super Store Analysis](https://lookerstudio.google.com/reporting/667ab681-40c2-4709-85ad-9504d48396c3) | In this analysis, I will examine the customer order details of a supermarket using Looker Studio. The aim of this analysis is to gain insights into the store's sales and customer behavior patterns, which will help in making data-driven decisions to improve the store's performance.   |
+|  🛍  [Super Store Analysis](https://lookerstudio.google.com/reporting/667ab681-40c2-4709-85ad-9504d48396c3) | In this analysis, I will examine the customer order details of a supermarket using Looker Studio. The aim of this analysis is to gain insights into the store's sales and customer behavior patterns, which will help in making data-driven decisions to improve the store's performance.|- 🔗 [View Dashboard on Tableau Public](https://lookerstudio.google.com/u/0/reporting/667ab681-40c2-4709-85ad-9504d48396c3) |
 | |
 ***
 
