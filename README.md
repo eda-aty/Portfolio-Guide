@@ -9,7 +9,7 @@
 
 
 ## 📚 Table of Contents
-- [SQL](#sql)
+- [SQL](#postgresql)
 - [Python](#python)
 - [Tableau](#tableau)
 - [Looker Studio](#looker)
@@ -41,7 +41,7 @@
 
 | Project Link | Project Description | Dashboard Link |
 |---|---|---|
-|  🛍  [Super Store Analysis](https://public.tableau.com/app/profile/eda.ata/viz/SuperstoreSaleAnalysis_17394633843600/Dashboard6)) | Visualised key insights using Tableau, including some kpı’s and sales . | - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreSaleAnalysis_17394633843600/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+|  🛍 [Super Store Analysis](https://public.tableau.com/app/profile/eda.ata/viz/SuperstoreSaleAnalysis_17394633843600/Dashboard6)) | Visualised key insights using Tableau, including some kpı’s and sales . | - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreSaleAnalysis_17394633843600/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | 🧬 🩺 [Tableau Healthcare Project](https://github.com/eda-aty/tableau-healthcare-project))| This project analyzes patient appointment attendance patterns to identify factors that contribute to no-shows.|   - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/HealtcareDataAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 # Looker Studio
