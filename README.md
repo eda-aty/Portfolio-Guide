@@ -20,6 +20,8 @@
 
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
+| 🩺 [Data-Analysis-Heathcare-Project](https://github.com/eda-aty/SQL-Data-Analysis-Heathcare-Project)| Data analysis   | With this project I will try to analyze key factors such as age, gender, medical conditions, waiting time, and SMS reminders to discover trends and inform decision-making for reducing no-show rates using PostgreSQL .
+
 | 🛒 [Superstore Ecommerce Case Study](https://github.com/eda-aty/Superstore-Data-Analysis)| Data analysis   | Uses SQL to analyze a sample Superstore database. The dataset contains records of Superstore sales details records in 2014-2017. This project includes the following steps: data loading, preprocessing and EDA (exploratory data analysis).I answer some business questions to examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 | ☕️[Coffeeshop Case Study](https://github.com/eda-aty/Coffee-Shop-Data-Analysis-Sql-Project) | Data analysis, data cleaning   | This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table. |  
 | 🍽️ [Danny’s Dinner Restaurant  8-Week SQL Challenges](https://github.com/eda-aty/Dannys_Dinner_SQL_Case_Study) | Data analysis   | This is a case study from the #8WeekSQLChallenge. It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |  
