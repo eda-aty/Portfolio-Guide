@@ -31,7 +31,7 @@
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
-| 👩🏻‍💻 [📺 Netflix Movies & TV Shows](https://github.com/katiehuangx/CS50P/blob/main/README.md) | Data Cleaning | I created a Python project to analyze a Netflix dataset obtained from Kaggle. The goal was to perform data cleaning with Pyhton. | pandas, matplotlib|  
+| 👩🏻‍💻 [📺 Netflix Movies & TV Shows](https://github.com/eda-aty/Netflix-Python-Project) | Data Cleaning | I created a Python project to analyze a Netflix dataset obtained from Kaggle. The goal was to perform data cleaning with Pyhton. | pandas, matplotlib|  
 | 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
 
 
