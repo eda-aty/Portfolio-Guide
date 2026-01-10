@@ -19,7 +19,7 @@
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
-|------|----|---|
+|--------|-----|---|
 | 🏨 [Healthcare Data Analysis Project-1](https://github.com/eda-aty/SQL-Healthcare-Data-Analysis-Project) | Data analysis | This is a healthcare data analysis case study using PostgreSQL. It demonstrates my ability to solve real-world hospital business problems with SQL, focusing on patient demographics, diagnosis burden, treatment effectiveness, healthcare costs, and seasonal trends. | 
 | 🛒 [Superstore Ecommerce Case Study](https://github.com/eda-aty/Superstore-Data-Analysis)| Data analysis     | Uses SQL to analyze a sample Superstore database. The dataset contains records of Superstore sales details records in 2014-2017. This project includes the following steps: data loading, preprocessing and EDA (exploratory data analysis).I answer some business questions to examine the sales history of the store and extract insights on its performance, as well as to identify potential improvements that can be implemented.
 | ☕️[Coffeeshop Case Study](https://github.com/eda-aty/Coffee-Shop-Data-Analysis-Sql-Project) | Data analysis, data cleaning    | This project is focused on querying and analyzing, and aims to produce data-driven strategies for sales marketing, customer segmentation, and consumption efficiency. This project analyzes the sales transactions from a coffee shop, stored in the Transactions table. |  
