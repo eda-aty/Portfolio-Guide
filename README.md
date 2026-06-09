@@ -12,7 +12,7 @@
 - [SQL](#postgresql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Looker Studio](#looker)
+- [Data Studio](#datastudio)
 
 
 
@@ -47,7 +47,7 @@
 |  🛍 [Super Store Analysis](https://public.tableau.com/app/profile/eda.ata/viz/SuperstoreSaleAnalysis_17394633843600/Dashboard6)) | Visualised key insights using Tableau, including some kpı’s and sales . | - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/SuperstoreSaleAnalysis_17394633843600/Dashboard6?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 | 🧬 🩺 [Tableau Healthcare Project](https://github.com/eda-aty/tableau-healthcare-project))| This project analyzes patient appointment attendance patterns to identify factors that contribute to no-shows.|   - 🔗 [View Dashboard on Tableau Public](https://public.tableau.com/views/HealtcareDataAnalysisProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
-# Looker Studio
+# Data Studio
 | Project Link | Project Description | Dashboard Link |
 |--- |--- |--- |
 |☕️ Coffeeshop Data Analysis | This project analyzes the sales transactions from a coffee shop, stored in the Transactions table.|-🔗[View Dashboard on Data Studio](https://datastudio.google.com/s/pO6MY_fCq8c)|
